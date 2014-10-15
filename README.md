@@ -1,3 +1,21 @@
+# BIOMD0000000347: Bachmann2011_JAK2STAT5_FeedbackControl
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000347.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000347.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -22,4 +40,5 @@ regulation enables control of STAT5 responses for Epo concentrations that can
 vary 1000-fold in vivo. Our modeling approach reveals dose-dependent feedback
 control as key property to regulate STAT5-mediated survival decisions over a
 broad range of ligand concentrations.
+
 
